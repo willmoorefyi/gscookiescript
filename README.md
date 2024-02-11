@@ -21,3 +21,6 @@ Finally, run the program
 ```
 
 use excel to convert the pipe-delimited result into a spreadsheet
+
+
+Note: the final spreadsheet doesn't include donation cookie boxes, but the total amount includes all charges (including donation cookies).
